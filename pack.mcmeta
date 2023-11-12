@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "pack_format": 18,
+        "description": "zh-en 测试版本"
+    },
+    "language": {
+        "zh_114514": {
+            "name": "Zhong when",
+            "region": "Innernational",
+            "bidirectional": "false"
+        }
+    }
+}
