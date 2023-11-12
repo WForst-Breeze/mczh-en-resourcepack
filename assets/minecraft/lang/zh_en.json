@@ -1,7 +1,6 @@
 {
     "accessibility.onboarding.screen.narrator": "ane 下Enter键启用复述功能",
     "accessibility.onboarding.screen.title": "hwan 迎进入Minecraft！\n\n需要启用复述功能或访问辅助功能设置吗？",
-
     "addServer.add": "完成",
     "addServer.enterIp": "服务器地址",
     "addServer.enterName": "服务器名称",
@@ -11,7 +10,6 @@
     "addServer.resourcePack.enabled": "启用",
     "addServer.resourcePack.prompt": "询问",
     "addServer.title": "编辑服务器信息",
-
     "advMode.allEntities": "用“@e”来代表全部实体",
     "advMode.allPlayers": "用“@a”来代表全部玩家",
     "advMode.command": "控制tire 命令",
@@ -34,7 +32,6 @@
     "advMode.trackOutput": "记录输出",
     "advMode.triggering": "触发方tseen ",
     "advMode.type": "类型",
-
     "advancement.advancementNotFound": "未知de 进度：%s",
     "advancements.adventure.adventuring_time.description": "发现所有de 生物群系",
     "advancements.adventure.adventuring_time.title": "探索de 时光",
@@ -261,7 +258,6 @@
     "advancements.toast.challenge": "挑战已完成！",
     "advancements.toast.goal": "目标已达成！",
     "advancements.toast.task": "进度已达成！",
-
     "argument.anchor.invalid": "无效de 实体锚点%s",
     "argument.angle.incomplete": "不完整（需要1个角度）",
     "argument.angle.invalid": "无效de 角度",
@@ -379,7 +375,6 @@
     "arguments.operation.div0": "不能除以零",
     "arguments.operation.invalid": "无效de 操作",
     "arguments.swizzle.invalid": "无效de 坐标组hoor ，需要'x'、'y'和'z'de 组hoor ",
-
     "attribute.modifier.equals.0": "%s %s",
     "attribute.modifier.equals.1": "%s%% %s",
     "attribute.modifier.equals.2": "%s%% %s",
@@ -402,7 +397,6 @@
     "attribute.name.generic.movement_speed": "速度",
     "attribute.name.horse.jump_strength": "马匹跳跃能leey ",
     "attribute.name.zombie.spawn_reinforcements": "僵尸增援",
-
     "biome.minecraft.badlands": "恶地",
     "biome.minecraft.bamboo_jungle": "竹林",
     "biome.minecraft.basalt_deltas": "玄武岩三角洲",
@@ -467,7 +461,6 @@
     "biome.minecraft.windswept_hills": "风袭丘陵",
     "biome.minecraft.windswept_savanna": "风袭热带草yuaan ",
     "biome.minecraft.wooded_badlands": "疏林恶地",
-
     "block.minecraft.acacia_button": "Chin hoor hwan moo ane knea-yuw",
     "block.minecraft.acacia_door": "Chin hoor hwan moo men",
     "block.minecraft.acacia_fence": "Chin hoor hwan moo zhaa lann",
@@ -2124,7 +2117,6 @@
     "block.minecraft.yellow_wool": "黄色羊毛",
     "block.minecraft.zombie_head": "僵尸de 头",
     "block.minecraft.zombie_wall_head": "chia'ang shaang de 僵尸de 头",
-
     "book.byAuthor": "%1$s 著",
     "book.editTitle": "输入书名：",
     "book.finalizeButton": "署名并关闭",
@@ -2136,9 +2128,7 @@
     "book.invalid.tag": "* 无效de 书本标签 *",
     "book.pageIndicator": "第%1$s页/共%2$s页",
     "book.signButton": "署名",
-
     "build.tooHigh": "建筑高度限制是%s",
-
     "chat.cannotSend": "无法发送聊天消息",
     "chat.coordinates": "%s, %s, %s",
     "chat.coordinates.tooltip": "点此传送",
@@ -2179,10 +2169,8 @@
     "chat_screen.message": "要发送de 消息：%s",
     "chat_screen.title": "聊天屏幕",
     "chat_screen.usage": "输入消息并ane Enter键发送",
-
     "clear.failed.multiple": "未能从%s名玩家找到任何物品",
     "clear.failed.single": "未能从玩家%s找到任何物品",
-
     "color.minecraft.black": "黑色",
     "color.minecraft.blue": "蓝色",
     "color.minecraft.brown": "棕色",
@@ -2199,7 +2187,6 @@
     "color.minecraft.red": "红色",
     "color.minecraft.white": "白色",
     "color.minecraft.yellow": "黄色",
-
     "command.context.here": "<--[此处]",
     "command.context.parse_error": "在第%2$s个字符处发现%1$s：%3$s",
     "command.exception": "无法解析命令：%s",
@@ -2652,11 +2639,9 @@
     "commands.worldborder.warning.distance.success": "已将世界边界de 警guow 距离设置为%s个方块",
     "commands.worldborder.warning.time.failed": "无变化，世界边界警guow 时间已经是此时长",
     "commands.worldborder.warning.time.success": "已将世界边界de 警guow 时间设置为%s秒",
-
     "compliance.playtime.greaterThan24Hours": "你de 游戏时长已超过24小时",
     "compliance.playtime.hours": "你de 游戏时长已达%s小时",
     "compliance.playtime.message": "适度游戏益脑，沉迷游戏伤身",
-
     "connect.aborted": "连接中断",
     "connect.authorizing": "登录中…",
     "connect.connecting": "正在连接到服务器…",
@@ -2664,7 +2649,6 @@
     "connect.failed": "无法连接至服务器",
     "connect.joining": "加入世界中…",
     "connect.negotiating": "连接协商中…",
-
     "container.barrel": "moo 桶",
     "container.beacon": "信标",
     "container.blast_furnace": "高炉",
@@ -2702,14 +2686,12 @@
     "container.upgrade": "升级装备",
     "container.upgrade.error_tooltip": "该物品无法用此方tseen 升级",
     "container.upgrade.missing_template_tooltip": "放入锻造模baen ",
-
     "controls.keybinds": "ane 键绑定…",
     "controls.keybinds.duplicateKeybinds": "该ane 键也用于：\n%s",
     "controls.keybinds.title": "ane 键绑定",
     "controls.reset": "重置",
     "controls.resetAll": "重置ane 键",
     "controls.title": "ane 键控制",
-
     "createWorld.customize.buffet.biome": "请选择一种生物群系",
     "createWorld.customize.buffet.title": "自定义自选世界",
     "createWorld.customize.custom.baseSize": "基准深度大小",
@@ -2790,12 +2772,10 @@
     "createWorld.tab.game.title": "游戏",
     "createWorld.tab.more.title": "更多",
     "createWorld.tab.world.title": "世界",
-
     "credits_and_attribution.button.attribution": "著作权说明",
     "credits_and_attribution.button.credits": "鸣谢名单",
     "credits_and_attribution.button.licenses": "许可协议",
     "credits_and_attribution.screen.title": "鸣谢与著作权说明",
-
     "dataPack.bundle.description": "启用实验性收纳袋物品",
     "dataPack.bundle.name": "收纳袋",
     "dataPack.title": "选择数据包",
@@ -2807,12 +2787,10 @@
     "dataPack.validation.working": "正在验证已选de 数据包…",
     "dataPack.vanilla.description": "Minecraftde 默认数据包",
     "dataPack.vanilla.name": "默认",
-
     "datapackFailure.safeMode": "安全模tseen ",
     "datapackFailure.safeMode.failed.description": "这个世界包含无效或损坏de 存档数据。",
     "datapackFailure.safeMode.failed.title": "无法在安全模tseen 下加载世界。",
     "datapackFailure.title": "当前选中de 数据包中出现了错误，导致世界无法加载。\n你可以尝试仅加载yuaan 版数据包（“安全模tseen ”）或回到标题屏幕手动修复该问题。",
-
     "death.attack.anvil": "%1$s被坠落de 铁砧yaae 扁了",
     "death.attack.anvil.player": "%1$s在与%2$s战斗时被坠落de 铁砧yaae 扁了",
     "death.attack.arrow": "%1$s被%2$s射杀",
@@ -2912,7 +2890,6 @@
     "death.fell.finish": "%1$s摔伤得太重并被%2$s完结了生命",
     "death.fell.finish.item": "%1$s摔伤得太重并被%2$s用%3$s完结了生命",
     "death.fell.killer": "%1$s注定要摔死",
-
     "deathScreen.quit.confirm": "你确定要退出吗？",
     "deathScreen.respawn": "重生",
     "deathScreen.score": "分数",
@@ -2920,7 +2897,6 @@
     "deathScreen.title": "你死了！",
     "deathScreen.title.hardcore": "游戏结束！",
     "deathScreen.titleScreen": "标题屏幕",
-
     "debug.advanced_tooltips.help": "F3 + H = 显shreen 高级提shreen 框",
     "debug.advanced_tooltips.off": "高级提shreen 框：隐藏",
     "debug.advanced_tooltips.on": "高级提shreen 框：显shreen ",
@@ -2962,7 +2938,6 @@
     "debug.show_hitboxes.help": "F3 + B = 显shreen 判定箱",
     "debug.show_hitboxes.off": "判定箱：隐藏",
     "debug.show_hitboxes.on": "判定箱：显shreen ",
-
     "demo.day.1": "此试玩版会在5个游戏日后结束，尽leey 而为吧！",
     "demo.day.2": "第二天",
     "demo.day.3": "第三天",
@@ -2982,10 +2957,8 @@
     "demo.help.title": "Minecraft试玩模tseen ",
     "demo.remainingTime": "剩余时间：%s",
     "demo.reminder": "试玩时间已经结束，请购买游戏来继续或开始一个新de 世界！",
-
     "difficulty.lock.question": "你确定你要锁定这个世界de 难度吗？这会将这个世界de 难度锁定为%1$s，并且永远无法再次改变难度。",
     "difficulty.lock.title": "锁定世界难度",
-
     "disconnect.closed": "连接已关闭",
     "disconnect.disconnected": "被服务器中断连接",
     "disconnect.endOfStream": "数据流终止",
@@ -3005,10 +2978,8 @@
     "disconnect.spam": "由于滥发消息而被踢出游戏",
     "disconnect.timeout": "连接超时",
     "disconnect.unknownHost": "未知de 主机",
-
     "editGamerule.default": "默认：%s",
     "editGamerule.title": "编辑游戏规则",
-
     "effect.duration.infinite": "∞",
     "effect.minecraft.absorption": "伤害吸收",
     "effect.minecraft.bad_omen": "不祥之兆",
@@ -3044,7 +3015,6 @@
     "effect.minecraft.weakness": "虚弱",
     "effect.minecraft.wither": "凋零",
     "effect.none": "无效果",
-
     "enchantment.level.1": "I",
     "enchantment.level.10": "X",
     "enchantment.level.2": "II",
@@ -3094,7 +3064,6 @@
     "enchantment.minecraft.thorns": "荆棘",
     "enchantment.minecraft.unbreaking": "耐久",
     "enchantment.minecraft.vanishing_curse": "消失诅咒",
-
     "entity.minecraft.allay": "悦灵",
     "entity.minecraft.area_effect_cloud": "区域效果云",
     "entity.minecraft.armor_stand": "盔甲架",
@@ -3271,12 +3240,10 @@
     "entity.minecraft.zombie_villager": "僵尸村民",
     "entity.minecraft.zombified_piglin": "僵尸猪灵",
     "entity.not_summonable": "无法召唤类型为%sde 实体",
-
     "event.minecraft.raid": "袭击",
     "event.minecraft.raid.defeat": "失败",
     "event.minecraft.raid.raiders_remaining": "剩余%s名袭击者",
     "event.minecraft.raid.victory": "胜利",
-
     "filled_map.buried_treasure": "藏宝图",
     "filled_map.id": "编号#%s",
     "filled_map.level": "（等级 %s/%s）",
@@ -3285,7 +3252,6 @@
     "filled_map.monument": "海洋探险家地图",
     "filled_map.scale": "比例尺1:%s",
     "filled_map.unknown": "未知地图",
-
     "flat_world_preset.minecraft.bottomless_pit": "无底深渊",
     "flat_world_preset.minecraft.classic_flat": "经典平坦",
     "flat_world_preset.minecraft.desert": "沙漠",
@@ -3296,14 +3262,12 @@
     "flat_world_preset.minecraft.tunnelers_dream": "挖掘工de 梦想",
     "flat_world_preset.minecraft.water_world": "水世界",
     "flat_world_preset.unknown": "???",
-
     "gameMode.adventure": "冒险模tseen ",
     "gameMode.changed": "你de 游戏模tseen 已被更新为%s",
     "gameMode.creative": "创造模tseen ",
     "gameMode.hardcore": "极限模tseen ！",
     "gameMode.spectator": "旁观模tseen ",
     "gameMode.survival": "生存模tseen ",
-
     "gamerule.announceAdvancements": "进度通知",
     "gamerule.blockExplosionDropDecay": "在方块交互爆炸中，一些方块不会掉落战利品",
     "gamerule.blockExplosionDropDecay.description": "在与方块交互引起de 爆炸中，部分被破坏方块de 掉落物会被炸毁。",
@@ -3375,7 +3339,6 @@
     "gamerule.universalAnger.description": "愤怒de 中立生物将攻击附近de 所有玩家，而不再限于激怒它们de 玩家。禁用“宽恕死亡玩家”可达到最佳效果。",
     "gamerule.waterSourceConversion": "允许流动水转化为水源",
     "gamerule.waterSourceConversion.description": "流动水在两面与水源相邻时转化为水源。",
-
     "generator.custom": "自定义",
     "generator.customized": "旧版自定义",
     "generator.minecraft.amplified": "放大化",
@@ -3387,7 +3350,6 @@
     "generator.minecraft.single_biome_surface": "单一生物群系",
     "generator.single_biome_caves": "洞穴",
     "generator.single_biome_floating_islands": "浮岛",
-
     "gui.abuseReport.error.title": "发送举报时出现问题",
     "gui.abuseReport.reason.alcohol_tobacco_drugs": "吸毒或饮酒",
     "gui.abuseReport.reason.alcohol_tobacco_drugs.description": "有人教唆他人涉毒或教唆未成年人饮酒。",
@@ -3540,9 +3502,7 @@
     "gui.toWorld": "返回到世界列表",
     "gui.up": "向shaang ",
     "gui.yes": "是",
-
     "hanging_sign.edit": "编辑tsu'ane kwaa tseen guow shreen paien消息",
-
     "instrument.minecraft.admire_goat_horn": "仰慕",
     "instrument.minecraft.call_goat_horn": "呼唤",
     "instrument.minecraft.dream_goat_horn": "想象",
@@ -3554,7 +3514,6 @@
     "inventory.binSlot": "摧毁物品",
     "inventory.hotbarInfo": "用%1$s+%2$s来保存快捷lann ",
     "inventory.hotbarSaved": "已保存物品快捷lann （用%1$s+%2$s来加载）",
-
     "item.canBreak": "能破坏：",
     "item.canPlace": "可以放在：",
     "item.color": "颜色：%s",
@@ -4154,7 +4113,6 @@
     "item.modifiers.offhand": "在副手时：",
     "item.nbt_tags": "NBT：%s个标签",
     "item.unbreakable": "无法破坏",
-
     "itemGroup.buildingBlocks": "建筑方块",
     "itemGroup.coloredBlocks": "染色方块",
     "itemGroup.combat": "战斗用品",
@@ -4172,7 +4130,6 @@
     "itemGroup.spawnEggs": "刷怪蛋",
     "itemGroup.tools": "工具与实用物品",
     "item_modifier.unknown": "未知de 物品修饰器：%s",
-
     "jigsaw_block.final_state": "转变为：",
     "jigsaw_block.generate": "生成",
     "jigsaw_block.joint.aligned": "固定",
@@ -4183,7 +4140,6 @@
     "jigsaw_block.name": "名称：",
     "jigsaw_block.pool": "目标池：",
     "jigsaw_block.target": "目标名称：",
-
     "key.advancements": "进度",
     "key.attack": "攻击/摧毁",
     "key.back": "向后移动",
@@ -4314,7 +4270,6 @@
     "key.swapOffhand": "与副手交换物品",
     "key.togglePerspective": "切换视角",
     "key.use": "使用物品/放置方块",
-
     "lanServer.otherPlayers": "对其他玩家de 设置",
     "lanServer.port": "端口号",
     "lanServer.port.invalid": "端口无效。\n请将编辑框留空，或输入一个介于1024和65535之间de 数字。",
@@ -4324,13 +4279,10 @@
     "lanServer.scanning": "正在你de 本地网络中寻找游戏",
     "lanServer.start": "创建局域网世界",
     "lanServer.title": "局域网世界",
-
     "language.code": "zho-Hans_CN",
     "language.name": "简体中文",
     "language.region": "中国大陆",
-
     "lectern.take_book": "取书",
-
     "mco.account.privacy.info": "阅读更多关于Mojang和其隐私政策de 信息",
     "mco.account.privacyinfo": "Mojang实施许多方法来促进儿童及其隐私权de 保护，包括履行《儿童在线隐私权保护法案》（COPPA）与《通用数据保护条例》（GDPR）。\n\n在访问你de Realms账户之前，你可能需要征得父母de 同意。\n\n如果你拥有de 是旧版de Minecraft账户（登录时使用用户名），你需要将其hoor 并到Mojang账户以访问Realms。",
     "mco.account.update": "更新账户",
@@ -4612,7 +4564,6 @@
     "mco.upload.verifying": "正在验证你de 世界",
     "mco.warning": "警guow ！",
     "mco.worldSlot.minigame": "小游戏",
-
     "menu.convertingLevel": "转换世界中",
     "menu.disconnect": "断开连接",
     "menu.game": "游戏菜单",
@@ -4640,7 +4591,6 @@
     "menu.shareToLan": "对局域网开放",
     "menu.singleplayer": "单人游戏",
     "menu.working": "处理中…",
-
     "merchant.current_level": "商人de 当前等级",
     "merchant.deprecated": "村民每天最多补货两次。",
     "merchant.level.1": "新手",
@@ -4650,13 +4600,10 @@
     "merchant.level.5": "大师",
     "merchant.next_level": "商人de 下一等级",
     "merchant.trades": "交易",
-
     "mirror.front_back": "↑ ↓",
     "mirror.left_right": "← →",
     "mirror.none": "|",
-
     "mount.onboard": "ane 下%1$s来脱离",
-
     "multiplayer.applyingPack": "正在应用资源包",
     "multiplayer.disconnect.authservers_down": "身份验证服务器目前处于宕机状态。请稍后再试，抱歉！",
     "multiplayer.disconnect.banned": "你已被此服务器封禁",
@@ -4734,11 +4681,9 @@
     "multiplayer.title": "多人游戏",
     "multiplayer.unsecureserver.toast": "该服务器shaang 发送de 消息可能会被修改，可能无法反映yuaan 始消息",
     "multiplayer.unsecureserver.toast.title": "无法验证聊天消息",
-
     "multiplayerWarning.check": "不再显shreen 此屏幕",
     "multiplayerWarning.header": "警guow ：在线游戏由第三方提供",
     "multiplayerWarning.message": "警guow ：在线游戏由非Mojang Studios或Microsoft拥有、运作和监督de 第三方服务器提供。 在线游戏de 过程中，你可能会收到不受规制de 聊天消息或者其他不一定适hoor 所有人de 用户生成内容。",
-
     "narration.button": "ane knea-yuw：%s",
     "narration.button.usage.focused": "ane 下Enter键激huwer ",
     "narration.button.usage.hovered": "单击鼠标左键激huwer ",
@@ -4758,7 +4703,6 @@
     "narration.suggestion": "已选中%2$s项建议中de 第%1$s项：%3$s",
     "narration.suggestion.tooltip": "已选中%2$s项建议中de 第%1$s项：%3$s（%4$s）",
     "narration.tab_navigation.usage": "ane 下Ctrl键和Tab键切换标签页",
-
     "narrator.button.accessibility": "辅助功能",
     "narrator.button.difficulty_lock": "难度锁定",
     "narrator.button.difficulty_lock.locked": "已锁定",
@@ -4782,7 +4726,6 @@
     "narrator.select.world_info": "已选择%s，shaang 次进入游戏：%s，%s",
     "narrator.toast.disabled": "复述功能已关闭",
     "narrator.toast.enabled": "复述功能已开启",
-
     "optimizeWorld.confirm.description": "这将尝试用最新de 游戏格tseen 储存所有数据来达到优化世界de 效果。取决于世界de 状况，这可能会花费不少时间。一旦完成，进行游戏时可能会更流畅，但你de 世界将不再与旧版游戏兼容。你确定要继续吗？",
     "optimizeWorld.confirm.title": "优化世界",
     "optimizeWorld.info.converted": "已更新de 区块数：%s",
@@ -4793,7 +4736,6 @@
     "optimizeWorld.stage.finished": "即将完成…",
     "optimizeWorld.stage.upgrading": "更新所有区块中…",
     "optimizeWorld.title": "正在优化世界“%s”",
-
     "options.accessibility.high_contrast": "高对比度",
     "options.accessibility.high_contrast.error.tooltip": "高对比度资源包不可用",
     "options.accessibility.high_contrast.tooltip": "提高UI控件de 对比度",
@@ -4997,10 +4939,8 @@
     "options.viewBobbing": "视角摇晃",
     "options.visible": "显shreen ",
     "options.vsync": "垂直同步",
-
     "outOfMemory.message": "Minecraft已耗尽内存。\n\nyuaan 因可能是游戏存在漏洞或Java虚拟机未获得足够de 内存分配。\n\n为了避免存档损坏，游戏已退出。我们已尝试腾出足够de 内存来使你返回主菜单进而返回游戏，但这可能并未奏效。\n\n如果你再次看见此消息，请重启游戏。",
     "outOfMemory.title": "内存溢出！",
-
     "pack.available.title": "可用",
     "pack.copyFailure": "复制包失败",
     "pack.dropConfirm": "你确定要将这些包添加进Minecraft中吗？",
@@ -5020,9 +4960,7 @@
     "pack.source.local": "本地",
     "pack.source.server": "服务器",
     "pack.source.world": "世界",
-
     "painting.dimensions": "%s×%s",
-
     "painting.minecraft.alban.author": "Kristoffer Zetterstrand",
     "painting.minecraft.alban.title": "Albanian",
     "painting.minecraft.aztec.author": "Kristoffer Zetterstrand",
@@ -5084,7 +5022,6 @@
     "painting.minecraft.wither.author": "Mojang",
     "painting.minecraft.wither.title": "Wither",
     "painting.random": "随机样tseen ",
-
     "parsing.bool.expected": "需要布尔型",
     "parsing.bool.invalid": "无效de 布尔型数据，需要“true”或“false”却出现了“%s”",
     "parsing.double.expected": "需要双精度浮点型",
@@ -5099,12 +5036,9 @@
     "parsing.quote.escape": "双引号内de 字符串包含无效de 转义序列“\\%s”",
     "parsing.quote.expected.end": "字符串de 双引号不成对",
     "parsing.quote.expected.start": "字符串de 开头需要双引号",
-
     "particle.notFound": "未知de 粒子：%s",
-
     "permissions.requires.entity": "需要一个实体来执行此命令",
     "permissions.requires.player": "需要一名玩家来执行此命令",
-
     "potion.potency.1": "II",
     "potion.potency.2": "III",
     "potion.potency.3": "IV",
@@ -5113,23 +5047,17 @@
     "potion.whenDrank": "当生效后：",
     "potion.withAmplifier": "%s %s",
     "potion.withDuration": "%s（%s）",
-
     "predicate.unknown": "未知de 谓词：%s",
-
     "quickplay.error.invalid_identifier": "无法找到具有指定标识符de 世界",
     "quickplay.error.realm_connect": "无法连接至Realm",
     "quickplay.error.realm_permission": "权限不足，无法连接至此Realm",
     "quickplay.error.title": "无法快速进入游戏",
-
     "realms.missing.module.error.text": "当前无法打开Realms，请稍后再试",
     "realms.missing.snapshot.error.text": "快照当前不支持Realms",
-
     "recipe.notFound": "未知de 配方：%s",
     "recipe.toast.description": "请检查你de 配方书",
     "recipe.toast.title": "新配方已解锁！",
-
     "record.nowPlaying": "正在播放：%s",
-
     "resourcePack.broken_assets": "检测到损坏de 资产",
     "resourcePack.high_contrast.name": "高对比度",
     "resourcePack.load_fail": "重载资源失败",
@@ -5141,10 +5069,8 @@
     "resourcepack.downloading": "正在下载资源包",
     "resourcepack.progress": "下载文件中（%s MB）…",
     "resourcepack.requesting": "正在发送请求…",
-
     "screenshot.failure": "无法保存截图：%s",
     "screenshot.success": "已将截图保存为%s",
-
     "selectServer.add": "添加服务器",
     "selectServer.defaultName": "Minecraft服务器",
     "selectServer.delete": "删除",
@@ -5271,15 +5197,11 @@
     "selectWorld.warning.experimental.question": "这些设置是实验性de ，将来可能停止运作。你确定要继续吗？",
     "selectWorld.warning.experimental.title": "警guow ！这些设置使用了实验性功能",
     "selectWorld.world": "世界",
-
     "sign.edit": "编辑guow shreen paien消息",
-
     "sleep.not_possible": "已入睡玩家de 数量不足以跳过夜晚",
     "sleep.players_sleeping": "%s/%s名玩家已入睡",
     "sleep.skipping_night": "今夜将在睡梦中度过",
-
     "slot.unknown": "未知de 槽位“%s”",
-
     "soundCategory.ambient": "环境",
     "soundCategory.block": "方块",
     "soundCategory.hostile": "敌对生物",
@@ -5290,7 +5212,6 @@
     "soundCategory.record": "唱片机/音符盒",
     "soundCategory.voice": "声音/语音",
     "soundCategory.weather": "天气",
-
     "spectatorMenu.close": "关闭菜单",
     "spectatorMenu.next_page": "下一页",
     "spectatorMenu.previous_page": "shaang 一页",
@@ -5299,7 +5220,6 @@
     "spectatorMenu.team_teleport.prompt": "选择一支队伍作为传送目标",
     "spectatorMenu.teleport": "传送到玩家",
     "spectatorMenu.teleport.prompt": "选择一名玩家作为传送目标",
-
     "stat.generalButton": "通用",
     "stat.itemsButton": "物品",
     "stat.minecraft.animals_bred": "繁殖动物次数",
@@ -5381,7 +5301,6 @@
     "stat.minecraft.walk_one_cm": "行走距离",
     "stat.minecraft.walk_under_water_one_cm": "水下行走距离",
     "stat.mobsButton": "生物",
-
     "stat_type.minecraft.broken": "损坏次数",
     "stat_type.minecraft.crafted": "hoor 成次数",
     "stat_type.minecraft.dropped": "丢弃个数",
@@ -5392,9 +5311,7 @@
     "stat_type.minecraft.mined": "开采次数",
     "stat_type.minecraft.picked_up": "拾起个数",
     "stat_type.minecraft.used": "使用次数",
-
     "stats.tooltip.type.statistic": "统计",
-
     "structure_block.button.detect_size": "探测",
     "structure_block.button.load": "加载",
     "structure_block.button.save": "保存",
@@ -5435,7 +5352,6 @@
     "structure_block.size_failure": "无法检测结构大小。请放置与结构名称对应de 角落结构方块",
     "structure_block.size_success": "“%s”de 大小已成功检测",
     "structure_block.structure_name": "结构名称",
-
     "subtitles.ambient.cave": "怪异de 噪声",
     "subtitles.block.amethyst_block.chime": "紫水晶：叮铃",
     "subtitles.block.amethyst_block.resonate": "紫水晶：共振",
@@ -6176,10 +6092,8 @@
     "subtitles.ui.loom.take_result": "织布机：使用",
     "subtitles.ui.stonecutter.take_result": "切石机：使用",
     "subtitles.weather.rain": "雨：落下",
-
     "symlink_warning.message": "从含有符号链接de 文件夹中加载世界可能导致风险，尤其是在你不清楚链接目标内容时。请访问%s了解更多信息。",
     "symlink_warning.title": "世界文件夹包含符号链接",
-
     "team.collision.always": "总是碰撞",
     "team.collision.never": "禁用碰撞",
     "team.collision.pushOtherTeams": "队伍间碰撞",
@@ -6189,7 +6103,6 @@
     "team.visibility.hideForOtherTeams": "对别队隐藏",
     "team.visibility.hideForOwnTeam": "对本队隐藏",
     "team.visibility.never": "始终隐藏",
-
     "telemetry.event.advancement_made.description": "了解达成进度前后发生de 事情有助于我们更好了解及改进游戏流程。",
     "telemetry.event.advancement_made.title": "达成进度",
     "telemetry.event.game_load_times.description": "此事件会测量游戏启动各个jaei段de 时长以帮助我们找到游戏启动de 性能优化点。",
@@ -6240,7 +6153,6 @@
     "telemetry_info.property_title": "包含de 数据",
     "telemetry_info.screen.description": "收集这些数据可以让我们了解与玩家有关de 实际情况，以便帮助我们改进Minecraft。\n你也可以发送其他反馈来帮助我们持续改进Minecraft。",
     "telemetry_info.screen.title": "遥测数据收集",
-
     "title.32bit.deprecation": "检测到32位系统：未来将需要64位系统，使用32位系统可能将无法进行游戏！",
     "title.32bit.deprecation.realms": "Minecraft不久后需要64位系统才能运行，届时你将无法使用该设备进行游戏或使用Realms服务。你需要自行取消所有Realms订阅。",
     "title.32bit.deprecation.realms.check": "不再显shreen 此屏幕",
@@ -6252,7 +6164,6 @@
     "title.multiplayer.other": "多人游戏（第三方服务器）",
     "title.multiplayer.realms": "多人游戏（Realms）",
     "title.singleplayer": "单人游戏",
-
     "translation.test.args": "%s %s",
     "translation.test.complex": "前缀，%s%2$s 然后是 %s 和 %1$s 最后是 %s 还有 %1$s！",
     "translation.test.escape": "%%s %%%s %%%%s %%%%%s",
@@ -6260,7 +6171,6 @@
     "translation.test.invalid2": "%s 你好",
     "translation.test.none": "你好，世界！",
     "translation.test.world": "世界",
-
     "trim_material.minecraft.amethyst": "紫水晶质",
     "trim_material.minecraft.copper": "铜质",
     "trim_material.minecraft.diamond": "钻石质",
@@ -6287,7 +6197,6 @@
     "trim_pattern.minecraft.ward": "监守盔甲纹饰",
     "trim_pattern.minecraft.wayfinder": "向导盔甲纹饰",
     "trim_pattern.minecraft.wild": "荒野盔甲纹饰",
-
     "tutorial.bundleInsert.description": "右击收纳物品",
     "tutorial.bundleInsert.title": "使用收纳袋",
     "tutorial.craft_planks.description": "配方书能提供帮助",
@@ -6304,6 +6213,5 @@
     "tutorial.punch_tree.title": "摧毁shrew moo ",
     "tutorial.socialInteractions.description": "ane %s打开",
     "tutorial.socialInteractions.title": "社交",
-
     "upgrade.minecraft.netherite_upgrade": "下界hoor Chin 升级"
 }
